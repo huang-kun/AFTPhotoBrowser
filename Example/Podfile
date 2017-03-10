@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AFTPhotoBrowser_Example' do
+  pod 'AFTPhotoBrowser', :path => '../'
+
+  target 'AFTPhotoBrowser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
