@@ -1,0 +1,6 @@
+framework module AFTPhotoBrowser {
+  umbrella header "AFTPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

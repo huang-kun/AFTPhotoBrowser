@@ -1,0 +1,16 @@
+PODS:
+  - AFTPhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - AFTPhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  AFTPhotoBrowser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFTPhotoBrowser: aa9d1b10cc0f4b523babee8233bc212981e7ffe1
+
+PODFILE CHECKSUM: 916669f48b870e2b24e0527d24e9b2f61edb9ae7
+
+COCOAPODS: 1.1.1
